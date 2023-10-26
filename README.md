@@ -9,7 +9,7 @@ added and removed by editing the config.h file.
 
 # Ollilauch's build
 
-download scripts [here](https://github.com/Ollilauch/dwm-scripts) and to PATH
+download scripts [here](https://github.com/Ollilauch/dwm-scripts) and add to PATH
 
 # Signaling changes
 
