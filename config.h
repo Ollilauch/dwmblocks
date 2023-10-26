@@ -24,12 +24,16 @@ static const Block blocks[] = {
 	// {"",	"sb-internet",	5,	4},
 	// /* {"",	"sb-iplocate", 0,	27}, */
 	// {"",	"sb-help-icon",	0,	15},
+    
+    {"", "spotify_player.sh", 5, 7},
+    {"", "cpu_usage.sh", 5, 8},
+    {"", "ram_usage.sh", 5, 9},
     {"", "dwm_volume.sh", 0, 6},
     {"", "brightness.sh", 0, 5},
     {"", "network.sh", 5, 4},
-    {"", "battery.sh", 1, 1},
-    {"", "volume.sh", 1, 2},
-    {"  ", "calendar.sh", 60, 3},
+    // {"", "network_speed.sh", 60, 8},
+    {"", "battery.sh", 5, 1},
+    {"", "calendar.sh", 60, 3},
 };
 
 //Sets delimiter between status commands. NULL character ('\0') means no delimiter.
